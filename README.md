@@ -1,9 +1,9 @@
 # ROS1
 ## turtlebot3 auto driving along walls and parking at Green color  
   
-turtlebot3, DynamixelSDK, turtlebot3_msgs, turtlebot3_simulation 설치는 https://github.com/ROBOTIS-GIT 참고하세요   
+turtlebot3, DynamixelSDK, turtlebot3_msgs, turtlebot3_simulation 설치는 https://github.com/ROBOTIS-GIT 참고   
   
-project.world 를 turtlebot3_gazebo/worlds 에 추가하세요  
+project.world 를 turtlebot3_gazebo/worlds 에 추가  
   
 turtlebot3_burger에 카메라를 추가하기 위하여 turtlebot3_burger.urdf.xacro 를 교체  
   
